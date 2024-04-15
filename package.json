@@ -1,6 +1,6 @@
 {
   "name": "microservice-movies",
   "dependencies": {
-    "aws-sdk": "2.1569.0"
+    "aws-sdk": "2.1599.0"
   }
 }
